@@ -17,7 +17,7 @@ I would like to add two features to this application.
 
 1) I would like to add a 'reset game' function to this application.  I would do this by adding another button with a callback function that would reset the board and squares in the board. 
 
-2) I would like to add an auto-play feature where the program plays against you.  This way you don't have to beat yourself by playing both players to simulate a game.  I would impliment this by having the program pick random squares for the second player's turn.
+2) I would like to add an auto-play feature where the program plays against you.  This way you don't have to beat yourself by playing both players to simulate a game.  I would implement this by having the program pick random squares for the second player's turn.
 
 
 #### MIT License
